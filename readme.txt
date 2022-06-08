@@ -3,3 +3,5 @@ Basic imititation of a subscription system, where the user feeds in his/her basi
 
 Prototype link: 
 	-> https://afternoon-ocean-35743.herokuapp.com/ 
+	
+	P.S.: The above is still in it initial phase, database has been removed at the moment.
